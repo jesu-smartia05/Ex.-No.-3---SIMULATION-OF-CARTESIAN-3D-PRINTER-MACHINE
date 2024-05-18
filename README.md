@@ -60,8 +60,10 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: JESU SMARTIA A
+### Register Number: 212223110016
+
+![exp5](https://github.com/jesu-smartia05/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/148514819/092fb05d-7e5d-4544-81db-8907ec60e3a5)
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
